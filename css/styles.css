@@ -57,3 +57,15 @@ body{
 	min-height: 100%;
 	margin: auto;
 }
+
+#carouselButton{
+	margin: auto;
+	z-index: 1;
+}
+
+.row-content-carousel{
+	margin: 0px auto;
+	padding: 5px 0px 5px 0px;
+	border-bottom: 1px ridge;
+	min-height: 20px;
+}
